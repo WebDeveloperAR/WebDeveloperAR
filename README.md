@@ -1,4 +1,5 @@
-<img src=" https://www.canva.com/design/DAGgddo9ZGU/XqZ3GEeX6a3tApzAnCB0XA/edit?utm_content=DAGgddo9ZGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="![ABU RAYHAN](https://github.com/user-attachments/assets/820dcf31-e5d0-488c-b0b3-f094326f4e0a)
+ ">
 <h1 align="center">Hi 👋, I'm Abu Rayhan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
